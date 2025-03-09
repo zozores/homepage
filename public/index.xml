@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>@zozores</title>
+    <link>http://localhost:1313/</link>
+    <description>Uma mistura caoticamente organizada de textos quase sempre sobre Tecnologia da Informação, Software Livre e afins</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-8b402129</generator>
+    <language>pt-br</language>
+    <copyright>Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional.</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>analista - Tag | @zozores</title>
+    <link>http://localhost:1313/tags/analista/</link>
+    <description>Uma mistura caoticamente organizada de textos quase sempre sobre Tecnologia da Informação, Software Livre e afins</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-8b402129</generator>
+    <language>pt-br</language>
+    <copyright>Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional.</copyright>
+    <lastBuildDate>Mon, 14 Oct 2024 09:18:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/analista/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analista Mestre Supremo das Galáxias #1</title>
+      <link>http://localhost:1313/pt-br/analista-mestre-supremo-das-galaxias/</link>
+      <pubDate>Mon, 14 Oct 2024 09:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/analista-mestre-supremo-das-galaxias/</guid>
+      <category domain="http://localhost:1313/categories/causos/">Causos</category>
+      <description>&lt;h2 id=&#34;preâmbulo&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;Preâmbulo&lt;/span&gt;&#xA;  &lt;a href=&#34;#pre%c3%a2mbulo&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&lt;p&gt;Eu estava pensando em sobre o que escrever na reestreia do meu blog e veio na minha cabeça contar um causo que não tem a ver com TI ao mesmo tempo que tem e que pode ser que seja baseado em fatos reais ou que seja somente um causo mesmo, história de pescador, mas vou deixar vocês com o benefício da dúvida.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

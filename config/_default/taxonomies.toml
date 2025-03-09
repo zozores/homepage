@@ -1,0 +1,5 @@
+_merge = "shallow"
+
+category = "categories"
+tag = "tags"
+collection = "collections"

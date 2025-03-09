@@ -1,0 +1,23 @@
+baseURL = 'http://localhost:1313'
+languageCode = 'pt-BR'
+defaultContentLanguage = 'pt-br'
+title = '@zozores'
+theme = 'FixIt'
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+buildDrafts = false
+summaryLength = 150
+capitalizeListTitles = false
+timeZone = "America/Sao_Paulo"
+# the editor to use when creating new content
+newContentEditor = "code"
+# ignore some build errors
+ignoreLogs = [
+  "error-get-remote-image",
+  "error-get-remote-json",
+  "error-get-gh-repo",
+  "error-remote-getjson",
+  "error-missing-instagram-accesstoken",
+  "warning-dev-version"
+]
